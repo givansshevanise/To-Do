@@ -1,5 +1,5 @@
 # To-Do
-To-Do Application Console
+To-Do  Console Application
 
 A simple and interactive command-line to-do list management system that allows users to create an account, maintain entries, and perform account and entry operations like adding, updating, deleting, and viewing tasks.
 
